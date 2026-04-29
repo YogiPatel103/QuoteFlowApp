@@ -9,11 +9,11 @@ Made by Yogi Halai 2026.
 
 | Quotes Feed | Library |
 | --- | --- |
-| <img src="docs/screenshots/quotes-feed.jpeg" width="220" alt="QuoteFlow quotes feed screen" /> | <img src="docs/screenshots/library.jpeg" width="220" alt="QuoteFlow library screen" /> |
+| <img src="./docs/screenshots/quotes-feed.jpeg" width="220" alt="QuoteFlow quotes feed screen" /> | <img src="./docs/screenshots/library.jpeg" width="220" alt="QuoteFlow library screen" /> |
 
 | Saved Quotes | About |
 | --- | --- |
-| <img src="docs/screenshots/saved-quotes.jpeg" width="220" alt="QuoteFlow saved quotes screen" /> | <img src="docs/screenshots/about.jpeg" width="220" alt="QuoteFlow about screen" /> |
+| <img src="./docs/screenshots/saved-quotes.jpeg" width="220" alt="QuoteFlow saved quotes screen" /> | <img src="./docs/screenshots/about.jpeg" width="220" alt="QuoteFlow about screen" /> |
 
 ## Features
 
@@ -127,4 +127,3 @@ Shows app information, quote stats, the logo, and the credit.
 ## Credit
 
 Made by Yogi Halai 2026.
-
