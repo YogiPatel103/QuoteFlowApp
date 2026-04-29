@@ -5,16 +5,6 @@ It shows famous motivational quotes in a swipeable short-form feed, similar to a
 
 Made by Yogi Halai 2026.
 
-## Screenshots
-
-| Quotes Feed | Library |
-| --- | --- |
-| <img src="./docs/screenshots/quotes-feed.jpeg" width="220" alt="QuoteFlow quotes feed screen" /> | <img src="./docs/screenshots/library.jpeg" width="220" alt="QuoteFlow library screen" /> |
-
-| Saved Quotes | About |
-| --- | --- |
-| <img src="./docs/screenshots/saved-quotes.jpeg" width="220" alt="QuoteFlow saved quotes screen" /> | <img src="./docs/screenshots/about.jpeg" width="220" alt="QuoteFlow about screen" /> |
-
 ## Features
 
 - Animated opening screen
@@ -127,3 +117,27 @@ Shows app information, quote stats, the logo, and the credit.
 ## Credit
 
 Made by Yogi Halai 2026.
+
+## Screenshots
+
+| Quotes Feed | Library |
+
+Screenshots of Application
+
+<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/ada810c3-47eb-4087-9f79-b6de1955cf5e" />
+
+
+<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/8b5cf766-64fc-4896-b902-5af8f3462d16" />
+
+
+<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/b31968f1-cdd9-45c9-b08b-9da7af69729a" />
+
+
+<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/7568136b-3136-405c-b009-91e797d144fe" />
+
+
+
+
+
+
+
